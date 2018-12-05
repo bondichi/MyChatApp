@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MyChatApp</string>
     <string name="welcomeText">Welcome to your chat app</string>
+    <string name="create_acct">Create a new Account</string>
 </resources>
