@@ -10,7 +10,7 @@
 
     <ImageView
             android:layout_width="117dp"
-            android:layout_height="115dp" app:srcCompat="@android:drawable/sym_action_chat"
+            android:layout_height="115dp" app:srcCompat="@drawable/chat_icon"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent" android:id="@+id/imageView"
             app:layout_constraintHorizontal_bias="0.501" android:layout_marginTop="8dp"
